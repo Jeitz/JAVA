@@ -1,3 +1,4 @@
+/*For question, please visit https://kingkrab.net/02-mar-2020-xplore-answers-java/ */
 import java.util.Scanner;
 public class Main{
     public static void main(String[] args){

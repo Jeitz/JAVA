@@ -1,3 +1,4 @@
+/* For question, please visit https://kingkrab.net/ira-03-nov-2020-xplore-answer-java/*/
 import java.util.*;
 public class Solution{
 	public static void main(String[] args) {

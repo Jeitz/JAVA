@@ -1,3 +1,4 @@
+/* For question, please visit https://kingkrab.net/ira-09-oct-2020-xplore-answer-java/ */
 import java.util.Scanner;
 
 public class Main {
